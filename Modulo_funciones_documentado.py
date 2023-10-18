@@ -2,7 +2,8 @@
 #Autor(es): Iván Estrada
 #Fecha: 27/09/23
 #Descripcion:Este modulo tiene las cuatro operaciones
-        #matematicas básicas.
+        #matematicas básicas
+#Cambio
 
 def sumar(num1, num2):
     """ Esta funcion recibe dos numeros y devuelve la suma de ambos """
